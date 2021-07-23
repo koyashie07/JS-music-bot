@@ -3,6 +3,6 @@ A Basic Music bot built in javascript
 
 ### Features ###
 
--Has loops
--Has Multi-server Queue
--Has stop, play, resume, pause, queue and nowplaying
+-Has loops \n
+-Has Multi-server Queue \n
+-Has stop, play, resume, pause, queue and nowplaying \n
